@@ -1,0 +1,30 @@
+<svg width="122" height="121" viewBox="0 0 122 121" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter0_dd_1_51)">
+<rect x="12.75" y="2" width="97" height="97" rx="48.5" fill="white" fill-opacity="0.01" shape-rendering="crispEdges"/>
+<rect width="45" height="45" transform="translate(38.75 28)" fill="url(#pattern0_1_51)"/>
+</g>
+<defs>
+<filter id="filter0_dd_1_51" x="0.75" y="0" width="121" height="121" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="4" operator="erode" in="SourceAlpha" result="effect1_dropShadow_1_51"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="3"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_51"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="3" operator="erode" in="SourceAlpha" result="effect2_dropShadow_1_51"/>
+<feOffset dy="10"/>
+<feGaussianBlur stdDeviation="7.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_1_51" result="effect2_dropShadow_1_51"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_1_51" result="shape"/>
+</filter>
+<pattern id="pattern0_1_51" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_51" transform="scale(0.0078125)"/>
+</pattern>
+<image id="image0_1_51" width="128" height="128" xlink:href="data:image/png;base64,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"/>
+</defs>
+</svg>
