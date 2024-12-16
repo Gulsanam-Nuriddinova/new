@@ -246,3 +246,71 @@ img {
     align-items: center;
     justify-content: center;
 }
+
+.section-4{
+    padding: 100px;
+    background: #F095D5;
+}
+
+.container-4 {
+    max-width: 100%;
+    width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    gap: 57px;
+}
+
+
+.s-4-hero-text p{
+    width: 683px;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+color: #fff;
+margin-bottom: 25px;
+}
+
+.s-4-hero-text h2{
+    width: 600px;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 125%;
+    color: #fff;
+    margin-bottom: 23px;
+}
+
+.buttons-2 {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+
+}
+
+.whats-up-2 {
+    padding: 11px 19px 11px 19px;
+    box-shadow: 0 4px 6px -4px rgba(0, 0, 0, 0.1), 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(90deg, #25d366 0%, #4caf50 100%);
+    display: flex;
+    align-items: center;
+    border: none;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #fff;
+    gap: 2.5px;
+}
+
+.telegram-2 {
+    padding: 11px 19px;
+    display: flex;
+    align-items: center;
+    border: none;
+    box-shadow: 0 4px 6px -4px rgba(0, 0, 0, 0.1), 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+background: linear-gradient(90deg, #08c 0%, #0af 100%);
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+color: #fff;
+}
