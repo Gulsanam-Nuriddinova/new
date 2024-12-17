@@ -105,6 +105,10 @@ button {
     gap: 2.5px;
 }
 
+.whats-up img{
+    margin: 0;
+}
+
 .telegram {
     padding: 11px 19px 11px 19px;
     box-shadow: 0 4px 6px -4px rgba(0, 0, 0, 0.1), 0 10px 15px -3px rgba(0, 0, 0, 0.1);
@@ -117,6 +121,11 @@ button {
     line-height: 150%;
     color: #fff;
     gap: 2.5px;
+}
+
+
+.telegram img {
+    margin: 0;
 }
 
 .section-1 {
@@ -233,7 +242,7 @@ img {
 .icon {
     width: 97px;
     margin: 0 auto;
-    padding: 0 ;
+    padding: 0;
     border-radius: 100%;
     height: 97px;
     box-shadow: 0 4px 6px -4px rgba(0, 0, 0, 0.1), 0 10px 15px -3px rgba(0, 0, 0, 0.1);
@@ -241,13 +250,13 @@ img {
     margin-bottom: 30px;
 }
 
-.icon img{
+.icon img {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.section-4{
+.section-4 {
     padding: 100px;
     background: #F095D5;
 }
@@ -262,16 +271,16 @@ img {
 }
 
 
-.s-4-hero-text p{
+.s-4-hero-text p {
     width: 683px;
-font-weight: 400;
-font-size: 18px;
-line-height: 150%;
-color: #fff;
-margin-bottom: 25px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #fff;
+    margin-bottom: 25px;
 }
 
-.s-4-hero-text h2{
+.s-4-hero-text h2 {
     width: 600px;
     font-weight: 700;
     font-size: 44px;
@@ -302,15 +311,83 @@ margin-bottom: 25px;
     gap: 2.5px;
 }
 
+.whats-up-2 img{
+    margin: 0;
+}
+
 .telegram-2 {
     padding: 11px 19px;
     display: flex;
     align-items: center;
     border: none;
     box-shadow: 0 4px 6px -4px rgba(0, 0, 0, 0.1), 0 10px 15px -3px rgba(0, 0, 0, 0.1);
-background: linear-gradient(90deg, #08c 0%, #0af 100%);
+    background: linear-gradient(90deg, #08c 0%, #0af 100%);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #fff;
+}
+
+.telegram-2 img{
+    margin: 0;
+}
+
+.section-5 {
+    padding: 100px;
+    background: #F1C50E;
+}
+
+.container-5 {
+    max-width: 100%;
+    width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.c-5-h2 {
+    width: 587px;
+    margin-left: 230px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 100%;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 48px;
+}
+
+.c-5-ul {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.c-5-li {
+    padding: 32px 32px 56px 32px;
+    border-radius: 8px;
+
+    box-shadow: 0 4px 6px -4px rgba(0, 0, 0, 0.1), 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    background: #fff;
+}
+
+.c-5-li img {
+    margin-bottom: 24px;
+}
+
+.c-5-li p {
+    width: 286px;
+    color: #6B7280;
+    margin-bottom: 30px;
+}
+
+.btn{
+    padding: 15px 31px;
+    background: #f472b6;
+    border: none;
+    border-radius: 99px;
 font-weight: 400;
 font-size: 16px;
 line-height: 150%;
+text-transform: uppercase;
+text-align: center;
 color: #fff;
 }
