@@ -555,11 +555,14 @@ margin-bottom: 144px;
 }
 
 .box{
+
     width: 760px;
     height: 258px;
+    padding: 60px;
 background: #fef9e6;
 position: relative;
 margin-bottom: 60px;
+
 }
 
 .box-p{
@@ -568,6 +571,9 @@ font-weight: 400;
 font-size: 18px;
 line-height: 150%;
 color: #000;
+display: flex;
+top: 30px;
+margin-bottom: 50px;
 
 
 }
@@ -584,8 +590,8 @@ color: #000;
 
 .box img{
     position: absolute;
-    z-index: 1;
-    margin-top: -100px;
+    z-index: 2;
+    margin-top: -170px;
     left: 283px;
 }
 
@@ -623,7 +629,7 @@ margin-bottom: 30px;
 }
 
 .footer{
-    padding: 50px;
+    padding: 40px;
     background: #333;
     
 }
