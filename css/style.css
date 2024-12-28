@@ -395,6 +395,7 @@ color: #fff;
 .section-6{
     padding: 100px;
     background: #fff;
+    margin: 0 auto;
 
 }
 
@@ -405,6 +406,11 @@ color: #fff;
     padding: 0 20px;
 }
 
+
+.box-1{
+    padding: 0 25vh;
+    margin: 0 auto;
+}
 .container-6 h2{
 font-weight: 700;
 font-size: 48px;
